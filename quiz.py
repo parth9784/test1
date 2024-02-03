@@ -1,5 +1,3 @@
-from idlelib import window
-
 import streamlit as st
 import time as t
 st.header("Hi! Welcome to the Quiz")
